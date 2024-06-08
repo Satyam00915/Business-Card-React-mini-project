@@ -1,0 +1,31 @@
+.card {
+  padding: 20px;
+  font-family: "Times New Roman", Times, serif;
+  min-width: 300px;
+  border: 2px solid rgb(203, 202, 202);
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0 5px 8px grey;
+}
+
+.int {
+  color: grey;
+  margin: 2px;
+}
+
+p {
+  color: grey;
+}
+
+#social {
+  display: flex;
+  column-gap: 30px;
+}
+
+.media {
+  background-color: rgb(24, 101, 152);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+}
